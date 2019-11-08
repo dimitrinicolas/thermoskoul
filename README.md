@@ -2,7 +2,7 @@
 
 I was annoyed by the noise of my apartment boiler to fall asleep, but I wanted
 to find my shower towels hot every morning. So I made this electronic system to
-turn off and on my boiler on specifics hours.
+turn off and on my boiler on specific hours.
 
 ## Hardware
 
